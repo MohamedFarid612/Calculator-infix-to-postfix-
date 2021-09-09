@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1619648702 source:c:\users\mohamed farid\desktop\ds_assignment1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+
+1619755667 source:c:\users\mohamed farid\desktop\ds_assignment1lastedition\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+
+1619792014 source:c:\users\mohamed farid\desktop\farid_adham_lasteditionyarab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+
+1623977079 source:c:\users\mohamed farid\desktop\farid_projects\calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+
